@@ -1,0 +1,11 @@
+1.  Optimization and Deep Learning
+https://www.d2l.ai/chapter_optimization/optimization-intro.html
+
+2. Optimizers in Deep Learning: A Detailed Guide
+https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/
+
+3. But what is a neural network? | Deep learning chapter 1 by 3Blue1Brown
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+4. Deep Learning
+https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
