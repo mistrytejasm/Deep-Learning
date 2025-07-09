@@ -1,4 +1,11 @@
 1. Convolutional Neural Networks (CNN) in Deep Learning:- 
 https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
 
-2. 
+2. What is Convolutional Neural Network (CNN) | CNN Intution
+
+Part 1. https://www.youtube.com/watch?v=hDVFXf74P-U&t=273s
+Part 2. https://youtu.be/aslTGS9ef98?si=yZAOrSNpH-k9jwJB
+Part 3. https://youtu.be/cgJx3GvQ5y8?si=eKcNX8_JV5MEXBQq
+Part 4. https://youtu.be/btWE6SsdDZA?si=2f0vxB6gN8ULDexo
+Part 5. https://www.youtube.com/watch?v=DwmGefkowCU
+Part 6. https://www.youtube.com/watch?v=ewsvsJQOuTI

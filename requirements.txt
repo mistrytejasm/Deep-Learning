@@ -5,3 +5,4 @@ seaborn
 tensorflow
 # tensorflow[and-cuda]  # for GPU
 scikit-learn
+torch

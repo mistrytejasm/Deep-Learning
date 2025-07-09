@@ -1,0 +1,5 @@
+1. Why RNNs are needed | RNNs Vs ANNs | RNN Part 1
+https://www.youtube.com/watch?v=4KpRP-YUw6c&list=PLGP2q2bIgaNzBBpxxNUf126chLsQ20dfG
+
+2.RNN using PyTorch | Question Answering System using PyTorch | Video 13 | CampusX
+https://www.youtube.com/watch?v=xjzWrPQ66VQ&t=353s
