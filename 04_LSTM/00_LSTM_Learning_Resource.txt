@@ -1,0 +1,8 @@
+1. LSTM 
+https://youtu.be/z7IPBg6MyrU?si=45BM_RF2iFNblPwz
+https://youtu.be/Akv3poqqwI4?si=F1yERU51hsbf2nNW
+
+2. Next Word Predictor using Pytorch | LSTM using PyTorch
+https://www.youtube.com/watch?v=FAUha5mYSGQ
+
+
